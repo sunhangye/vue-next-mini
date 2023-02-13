@@ -15,7 +15,7 @@ export default [
       {
         format: 'iife',
         file: './packages/vue/dist/vue.js',
-        sourceMap: true,
+        sourcemap: true,
         name: 'Vue'
       }
     ],

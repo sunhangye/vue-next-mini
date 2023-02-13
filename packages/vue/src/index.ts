@@ -1,3 +1,1 @@
-let bar = '测试'
-
-console.log('hello world')
+export { reactive } from '@vue/reactivitiy'
